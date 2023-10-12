@@ -2,3 +2,6 @@
 for x in "banana":
   print(x)
   # this is the for loop
+# this is the main code of the file in this repo
+# the out put of the code and change in the code will be add in the repi
+
