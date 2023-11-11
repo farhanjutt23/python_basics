@@ -1,5 +1,5 @@
 # python_basics
-This repository for the python <br>
+This repository for the python in the data science <br>
 1.python basic  <br>
 .variable  <br>
 .keywords   <br>
