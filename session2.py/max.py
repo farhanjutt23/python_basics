@@ -8,3 +8,4 @@ elif b>a and b>c:
     print("the max number is ",b)
 else:
     print("the max number is ", c)
+print("so the max number is the found ")
