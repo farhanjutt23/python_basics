@@ -11,6 +11,6 @@ This repository for the python in the data science <br>
 .string  <br>
 Instructor:: campus.x   <br>
 2.OOP  <br>
-Instructor:campus.x  <br>
+Instructor:ca.mpus.x  <br>
 and the files <br>.
 
