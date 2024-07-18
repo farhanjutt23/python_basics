@@ -9,7 +9,7 @@ This repository for the python in the data science <br>
 .loop  <br>
 .list   <br>
 .string  <br>
-Instructor: campus.x   <br>
+Instructor:: campus.x   <br>
 2.OOP  <br>
 Instructor:campus.x  <br>
 and the files <br>.
